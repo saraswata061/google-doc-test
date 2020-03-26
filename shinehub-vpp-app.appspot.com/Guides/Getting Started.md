@@ -5,11 +5,9 @@
 1. Create a new [Cloud Platform project](https://console.developers.google.com/projectcreate).
 2. [Enable billing](https://cloud.google.com/billing/docs/how-to/modify-project#enable_billing_for_a_project) for your project.
 
-### Creating an API key
-1. [Create an API key](https://console.developers.google.com/apis/credentials) in the Google APIs Console.
-2. Click **Create credentials**, then select **API key**.
-3. Copy the key to the clipboard.
-4. Click **Close**.
+### Creating Access Toke
+2. Please Follow this link to create access token [Create Access Toke](http://shinehub-vpp-oauthserver.appspot.com/sso-auth-server/client).
+
 
 ### Enable the API
 
